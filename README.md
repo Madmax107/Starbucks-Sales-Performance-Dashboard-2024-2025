@@ -2,6 +2,8 @@
 
 Welcome to my end-to-end Data Visualization project using **Power BI**, where I analyze Starbucks’ global sales, revenue, profit, customer behavior, and promotions for the year 2024–2025.
 
+![image alt](https://github.com/Madmax107/Starbucks-Sales-Performance-Dashboard-2024-2025/blob/8d3308a64f76052f0cbdefc1441d0b4c473ec256/Pngs/starbucks.jpg)
+
 ## 🔍 Overview
 
 This project offers deep insights into Starbucks’ operational metrics using interactive and visually intuitive dashboards. It helps stakeholders understand performance trends across products, regions, customer types, and promotional strategies.
